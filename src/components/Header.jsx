@@ -41,7 +41,7 @@ const Header = ({ onSearch }) => {
           <a href="#tv-shows">TV Shows</a>
           <a href="#movies">Movies</a>
           <a href="#new">New & Popular</a>
-          <a href="#my-list">My List</a>
+          <a href="#my-list">My Lists</a>
         </nav>
       </div>
       <div className="header__right">
